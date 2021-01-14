@@ -40,6 +40,8 @@ gem 'bootstrap-will_paginate', '~> 1.0.0'
 gem 'carrierwave',             '~> 1.2.2'
 gem 'mini_magick',             '~> 4.7.0'
 
+gem 'kaminari'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
